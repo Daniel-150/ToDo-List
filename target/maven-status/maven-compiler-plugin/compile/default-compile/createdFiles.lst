@@ -1,0 +1,6 @@
+com\example\todoList\TodoListApplication.class
+com\example\todoList\model\Task.class
+com\example\todoList\service\TaskService.class
+com\example\todoList\controller\TaskViewController.class
+com\example\todoList\repository\TaskRepository.class
+com\example\todoList\controller\TaskController.class
